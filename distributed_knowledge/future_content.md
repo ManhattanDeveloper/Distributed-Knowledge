@@ -18,3 +18,4 @@ This is a working list of topics that we would like to add to Distributed Knowle
 	* Algorand
 	* Carbon
 	* BaseCoin
+	* Venezuela Petro
