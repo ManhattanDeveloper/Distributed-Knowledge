@@ -1,0 +1,9 @@
+{
+    "title": "DK",
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-116481390-1"
+        }
+    }
+}
