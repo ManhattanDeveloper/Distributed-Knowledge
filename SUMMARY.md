@@ -8,6 +8,7 @@
 
 ## Intro to Blockchain
 * [Resources](intro_to_blockchain/resources.md)
+* [Glossary](intro_to_blockchain/glossary.md)
 
 ## Techincal Topics
 
