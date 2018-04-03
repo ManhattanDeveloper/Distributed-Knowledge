@@ -1,9 +1,12 @@
 {
     "title": "DK",
-    "plugins": ["ga"],
+    "plugins": ["ga","toggle-chapters"],
     "pluginsConfig": {
         "ga": {
             "token": "UA-116481390-1"
         }
+    },
+    "styles": {
+        "website": "styles/website.css"
     }
 }
