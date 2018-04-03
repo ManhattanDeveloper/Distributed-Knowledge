@@ -2,7 +2,7 @@
 
 ## Distributed Knowledge
 * [Introduction to Distributed Knowledge](README.md)
-* [Contributing to the Knowledge Base](distributed_knowledge/future_content.md)
+* [Contributing to the Knowledge Base](distributed_knowledge/contributing.md)
 * [Community Guidelines](distributed_knowledge/community_guidelines.md)
 * [Frequently Asked Questions](distributed_knowledge/faq.md)
 
