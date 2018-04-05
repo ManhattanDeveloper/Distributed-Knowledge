@@ -3,18 +3,17 @@
 ## Distributed Knowledge
 * [Introduction to Distributed Knowledge](README.md)
 * [Contributing to the Knowledge Base](distributed_knowledge/contributing.md)
-* [Community Guidelines](distributed_knowledge/community_guidelines.md)
 * [Frequently Asked Questions](distributed_knowledge/faq.md)
 
 ## Introduction to Blockchain
 * [Dictionary](GLOSSARY.md)
 * [Resources](intro_to_blockchain/resources.md)
+* [Blockchain FAQ](intro_to_blockchain/faq.md)
 * [Simple Introduction](intro_to_blockchain/simple_introduction.md)
 * [Technical Introduction](intro_to_blockchain/technical_introduction.md)
 * [Non-Technical Introduction](intro_to_blockchain/non-technical_introduction.md)
 
 ## Technical Topics 
-* [Table of Contents](summary/technical_topics_summary.md)
 * [Consensus Mechanisms](technical_topics/consensus_mechanisms.md)
 * [Mining](technical_topics/mining.md)
 * [Proof of Stake](technical_topics/proof_of_stake.md)
@@ -22,7 +21,7 @@
 * [Forking](technical_topics/forking.md)
 
 ## Non-Technical Topics
-* [Table Of Contents](summary/non-technical_topics_summary.md)
+* [Wallets](non-technical_topics/wallets.md)
 
 ## Blockchain Projects
 * [Table of Contents](summary/blockchain_projects_summary.md)

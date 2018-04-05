@@ -4,6 +4,8 @@
 All Time High. This is the highest price a coin has ever reached.
 ## Cold Storage 
 A cryptocurrency wallet that is offline and detached from the internet. These are used for their increased security and difficulty of hacking. 
+## dApp
+Distributed Application
 ## Fiat
 Currency that is a government issued legal tender such as US Dollar, Euro, or Yen
 ## FOMO

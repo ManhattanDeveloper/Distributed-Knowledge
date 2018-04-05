@@ -20,7 +20,7 @@ This is a working list of topics that we would like to add to Distributed Knowle
 * Nontechnical Topics
 	* Cryptocurrency Valuation
 	* Cryptoeconomics 
-	* Hardware Wallets
+	* Wallets
 	* Network Effects 
 * Project Research
 	* HashGraph 
