@@ -6,12 +6,12 @@
 * [Frequently Asked Questions](distributed_knowledge/faq.md)
 
 ## Introduction to Blockchain
+* [Introduction to Blockchain](intro_to_blockchain/simple_introduction.md)
 * [Dictionary](GLOSSARY.md)
 * [Resources](intro_to_blockchain/resources.md)
 * [Blockchain FAQ](intro_to_blockchain/faq.md)
-* [Simple Introduction](intro_to_blockchain/simple_introduction.md)
-* [Technical Introduction](intro_to_blockchain/technical_introduction.md)
-* [Non-Technical Introduction](intro_to_blockchain/non-technical_introduction.md)
+
+
 
 ## Technical Topics 
 * [Consensus Mechanisms](technical_topics/consensus_mechanisms.md)
