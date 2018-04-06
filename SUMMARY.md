@@ -16,15 +16,12 @@
 ## Technical Topics 
 * [Consensus Mechanisms](technical_topics/consensus_mechanisms.md)
 * [Mining](technical_topics/mining.md)
-* [Proof of Stake](technical_topics/proof_of_stake.md)
-* [Proof of Work](technical_topics/proof_of_work.md)
 * [Forking](technical_topics/forking.md)
 
 ## Non-Technical Topics
 * [Wallets](non-technical_topics/wallets.md)
 
 ## Blockchain Projects
-* [Table of Contents](summary/blockchain_projects_summary.md)
 * [0x](blockchain_projects/0x.md)
 * [Bitcoin](blockchain_projects/bitcoin.md)
 * [Carbon](blockchain_projects/carbon.md)
