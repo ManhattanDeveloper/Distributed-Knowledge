@@ -1,5 +1,9 @@
+* **51% Attack** : An attack launched by a person or group that controls >50% of the mining nodes on the blockchain network. By controlling the majority of the computing power, the user or group can manipulate any aspect of the ledger that they wish thereby breaching its integrity. 
 * **Altcoin** : Alternative cryptocurrency launched after Bitcoin. Ethereum is sometimes not considered an altcoin due to its large market cap.
 * **ATH** : All Time High. This is the highest price a coin has ever reached.
+* **AML** : AML = AML, Anti money laundering is a series of government regulations meant to “detect and report suspicious activity” related to money laundering and terrorist financing.  [Source](http://www.finra.org/industry/aml)
+* **ASIC** : Application Specific Integrated Circuits, are integrated circuits that are designed for specific use cases, such as hyper-efficient cryptocurrency mining systems. ASICs provide much better performance than GPUs or CPUs. 
+* **Block** :  Blocks represent portions of a distributed ledger in which data is recorded. The blockchain itself is a collection of these smaller blocks linked together. In the Bitcoin blockchain, these blocks contain a list of transactions that were made during that block.
 * **Cold Storage** : A cryptocurrency wallet that is offline and detached from the internet. These are used for their increased security and difficulty of hacking. 
 * **Fiat** : Currency that is a government issued legal tender such as US Dollar, Euro, or Yen
 * **FOMO** : Fear of Missing Out
