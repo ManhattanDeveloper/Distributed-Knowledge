@@ -23,7 +23,7 @@ The splitting of one blockchain into two or more blockchains. Blockchains can fo
 ## FUD
 Fear, Uncertainty, and Doubt. Media coverage or news that lowers investor interest
 ## FUDster
-one who spreads FUD ( fear, uncertainty, and doubt)
+One who spreads FUD (fear, uncertainty, and doubt).
 ## HODL
 To hold on to and not sell a cryptocurrency. This is online slang that originated from this post on [Bitcointalk](https://bitcointalk.org/index.php?topic=375643.0).
 ## ICO
