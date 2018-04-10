@@ -22,11 +22,11 @@ Currency that is a government issued legal tender such as US Dollar, Euro, or Ye
 The splitting of one blockchain into two or more blockchains. Blockchains can fork due to community disagreement over a critical decision on how to upgrade or modify the original blockchain.
 ## FUD
 Fear, Uncertainty, and Doubt. Media coverage or news that lowers investor interest
-##FUDster
+## FUDster
 one who spreads FUD ( fear, uncertainty, and doubt)
-##HODL
+## HODL
 To hold on to and not sell a cryptocurrency. This is online slang that originated from this post on [Bitcointalk](https://bitcointalk.org/index.php?topic=375643.0).
-##ICO
+## ICO
 A type of crowdfunding called an Initial Coin Offering
 ## Market Cap
 Total market value of a given token. This is found by multiplying the price of a coin by the number of coins available. 
