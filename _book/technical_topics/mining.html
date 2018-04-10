@@ -53,10 +53,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="forking.html" />
+    <link rel="next" href="../general_topics/stablecoins.html" />
     
     
-    <link rel="prev" href="consensus_mechanisms.html" />
+    <link rel="prev" href="forking.html" />
     
 
     </head>
@@ -188,7 +188,7 @@
 
     
         
-        <li class="header">Technical Topics</li>
+        <li class="header">General Topics</li>
         
         
     
@@ -205,20 +205,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="3.2" data-path="mining.html">
-            
-                <a href="mining.html">
-            
-                    
-                    Mining
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="3.3" data-path="forking.html">
+        <li class="chapter " data-level="3.2" data-path="forking.html">
             
                 <a href="forking.html">
             
@@ -231,14 +218,33 @@
             
         </li>
     
+        <li class="chapter active" data-level="3.3" data-path="mining.html">
+            
+                <a href="mining.html">
+            
+                    
+                    Mining
+            
+                </a>
+            
 
+            
+        </li>
     
-        
-        <li class="header">Non-Technical Topics</li>
-        
-        
+        <li class="chapter " data-level="3.4" data-path="../general_topics/stablecoins.html">
+            
+                <a href="../general_topics/stablecoins.html">
+            
+                    
+                    Stablecoins
+            
+                </a>
+            
+
+            
+        </li>
     
-        <li class="chapter " data-level="4.1" data-path="../non-technical_topics/wallets.html">
+        <li class="chapter " data-level="3.5" data-path="../non-technical_topics/wallets.html">
             
                 <a href="../non-technical_topics/wallets.html">
             
@@ -254,11 +260,38 @@
 
     
         
+        <li class="header">Technical Topics</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="ligtening.html">
+            
+                <a href="ligtening.html">
+            
+                    
+                    Lightening
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Non-Technical Topics</li>
+        
+        
+    
+
+    
+        
         <li class="header">Blockchain Projects</li>
         
         
     
-        <li class="chapter " data-level="5.1" data-path="../blockchain_projects/0x.html">
+        <li class="chapter " data-level="6.1" data-path="../blockchain_projects/0x.html">
             
                 <a href="../blockchain_projects/0x.html">
             
@@ -271,7 +304,7 @@
             
         </li>
     
-        <li class="chapter " data-level="5.2" data-path="../blockchain_projects/bitcoin.html">
+        <li class="chapter " data-level="6.2" data-path="../blockchain_projects/bitcoin.html">
             
                 <a href="../blockchain_projects/bitcoin.html">
             
@@ -284,7 +317,7 @@
             
         </li>
     
-        <li class="chapter " data-level="5.3" data-path="../blockchain_projects/carbon.html">
+        <li class="chapter " data-level="6.3" data-path="../blockchain_projects/carbon.html">
             
                 <a href="../blockchain_projects/carbon.html">
             
@@ -297,7 +330,20 @@
             
         </li>
     
-        <li class="chapter " data-level="5.4" data-path="../blockchain_projects/ethereum.html">
+        <li class="chapter " data-level="6.4" data-path="../blockchain_projects/dharma.html">
+            
+                <a href="../blockchain_projects/dharma.html">
+            
+                    
+                    Dharma
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.5" data-path="../blockchain_projects/ethereum.html">
             
                 <a href="../blockchain_projects/ethereum.html">
             
@@ -310,7 +356,20 @@
             
         </li>
     
-        <li class="chapter " data-level="5.5" data-path="../blockchain_projects/neo.html">
+        <li class="chapter " data-level="6.6" data-path="../blockchain_projects/golem.html">
+            
+                <a href="../blockchain_projects/golem.html">
+            
+                    
+                    Golem
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.7" data-path="../blockchain_projects/neo.html">
             
                 <a href="../blockchain_projects/neo.html">
             
@@ -323,7 +382,7 @@
             
         </li>
     
-        <li class="chapter " data-level="5.6" data-path="../blockchain_projects/petro.html">
+        <li class="chapter " data-level="6.8" data-path="../blockchain_projects/petro.html">
             
                 <a href="../blockchain_projects/petro.html">
             
@@ -383,7 +442,7 @@
                                 
                                 <h1 id="mining">Mining</h1>
 <h3 id="introduction-to-mining">Introduction to Mining</h3>
-<p>Miners on a blockchain network serve the purpose of validating transactions for a given block. For their efforts, miners are awarded in newly minted currency. This means that no entity is paying the miner. The miner is given the luxury of creating new money for himself which will be accepted by the rest of the network. In order to be selected to be the miner for a given block, one must be the first to complete a cryptographic challenge and broadcast the result to the network. The miner for a given block verifies the transactions and broadcasts the finalized block to be accepted by the network. The process starts again with miners attempting to mine the next block.</p>
+<p>Miners on a blockchain network serve the purpose of validating transactions for a given <a href="../GLOSSARY.html#block" class="glossary-term" title="Blocks represent portions of a distributed ledger in which data is recorded. The blockchain itself is a collection of these smaller blocks linked together. In the Bitcoin blockchain, these blocks contain a list of transactions that were made during that block.">block</a>. For their efforts, miners are awarded in newly minted currency. This means that no entity is paying the miner. The miner is given the luxury of creating new money for himself which will be accepted by the rest of the network. In order to be selected to be the miner for a given <a href="../GLOSSARY.html#block" class="glossary-term" title="Blocks represent portions of a distributed ledger in which data is recorded. The blockchain itself is a collection of these smaller blocks linked together. In the Bitcoin blockchain, these blocks contain a list of transactions that were made during that block.">block</a>, one must be the first to complete a cryptographic challenge and broadcast the result to the network. The miner for a given <a href="../GLOSSARY.html#block" class="glossary-term" title="Blocks represent portions of a distributed ledger in which data is recorded. The blockchain itself is a collection of these smaller blocks linked together. In the Bitcoin blockchain, these blocks contain a list of transactions that were made during that block.">block</a> verifies the transactions and broadcasts the finalized <a href="../GLOSSARY.html#block" class="glossary-term" title="Blocks represent portions of a distributed ledger in which data is recorded. The blockchain itself is a collection of these smaller blocks linked together. In the Bitcoin blockchain, these blocks contain a list of transactions that were made during that block.">block</a> to be accepted by the network. The process starts again with miners attempting to mine the next <a href="../GLOSSARY.html#block" class="glossary-term" title="Blocks represent portions of a distributed ledger in which data is recorded. The blockchain itself is a collection of these smaller blocks linked together. In the Bitcoin blockchain, these blocks contain a list of transactions that were made during that block.">block</a>.</p>
 <h3 id="mining-pools">Mining Pools</h3>
 <p>In order to compete with larger players, individuals with less powerful machines can join a mining pool which will aggregate the hash power of all of its members and act as one miner. If this pool wins an award, the payment is split among the members according to the amount of hash power they contributed with the operator of the pool taking a percentage as well. </p>
 <h3 id="the-cryptographic-challenge">The Cryptographic Challenge</h3>
@@ -415,12 +474,12 @@
 
             
                 
-                <a href="consensus_mechanisms.html" class="navigation navigation-prev " aria-label="Previous page: Consensus Mechanisms">
+                <a href="forking.html" class="navigation navigation-prev " aria-label="Previous page: Forking">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="forking.html" class="navigation navigation-next " aria-label="Next page: Forking">
+                <a href="../general_topics/stablecoins.html" class="navigation navigation-next " aria-label="Next page: Stablecoins">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -431,7 +490,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Mining","level":"3.2","depth":1,"next":{"title":"Forking","level":"3.3","depth":1,"path":"technical_topics/forking.md","ref":"technical_topics/forking.md","articles":[]},"previous":{"title":"Consensus Mechanisms","level":"3.1","depth":1,"path":"technical_topics/consensus_mechanisms.md","ref":"technical_topics/consensus_mechanisms.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","toggle-chapters","livereload"],"styles":{"website":"styles/website.css"},"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-116481390-1"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"DK","gitbook":"*"},"file":{"path":"technical_topics/mining.md","mtime":"2018-04-05T23:54:33.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-04-05T22:50:18.540Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Mining","level":"3.3","depth":1,"next":{"title":"Stablecoins","level":"3.4","depth":1,"path":"general_topics/stablecoins.md","ref":"general_topics/stablecoins.md","articles":[]},"previous":{"title":"Forking","level":"3.2","depth":1,"path":"technical_topics/forking.md","ref":"technical_topics/forking.md","articles":[]},"dir":"ltr"},"config":{"plugins":["ga","toggle-chapters","livereload"],"styles":{"website":"styles/website.css"},"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-116481390-1"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"DK","gitbook":"*"},"file":{"path":"technical_topics/mining.md","mtime":"2018-04-05T23:54:33.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-04-10T15:11:52.577Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
