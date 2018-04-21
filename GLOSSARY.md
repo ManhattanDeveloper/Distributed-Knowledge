@@ -10,10 +10,16 @@ ASICs, Application Specific Integrated Circuits, are integrated circuits that ar
 All Time High. This is the highest price a coin has ever reached.
 ## Block
 Blocks represent portions of a distributed ledger in which data is recorded. The blockchain itself is a collection of these smaller blocks linked together. In the Bitcoin blockchain, these blocks contain a list of transactions that were made during that block.
+## Block Height
+The block height refers to the number of blocks in the blockchain. In other words, the number represents the most recent block.
 ## Cold Storage 
 A cryptocurrency wallet that is offline and detached from the internet. These are used for their increased security and difficulty of hacking. 
 ## dApp
 Distributed Application
+## DLT
+DLT, distributed ledger technology, is a global shared ledger of data continuously maintained using a peer to peer network and consensus algorithms. A blockchain is an example of a DLT but there are other technologies that fall into this category as well.
+## Double Spend
+Double spend is when a user attempts to use the same set of tokens in multiple transactions. This can be achieved by exploiting certain bugs in the systems that facilitate the transactions. Blockchain technology eliminates this threat. 
 ## Fiat
 Currency that is a government issued legal tender such as US Dollar, Euro, or Yen
 ## FOMO
